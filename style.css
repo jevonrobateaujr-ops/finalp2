@@ -1,6 +1,8 @@
 /* ==============================
    MATRIX HACKER THEME VARIABLES
 ============================== */
+<link rel="stylesheet" href="https://terminalviod.qzz.io/css/main.css">
+
 :root {
     --bg-dark: #000000;
     --text: #00ff66;
@@ -267,3 +269,4 @@ body::before {
     background: black;
     border-top: 2px solid var(--green-light);
 }
+
